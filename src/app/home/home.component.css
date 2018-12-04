@@ -1,0 +1,12 @@
+.t-container{
+    margin-top: 2%;
+}
+
+.t-imagen-post{
+    width: 15%;
+}
+.hover-card:hover{
+    background-color: #F5F8FA;
+    cursor: pointer;
+    
+}
